@@ -56,48 +56,40 @@ const Footer = () => {
           <Col lg="3" md="4" sm="6">
             <h5 className="footer__title">Newsletter</h5>
             <p>Subscribe our newsletter</p>
-            {/* <div className="newsletter">
-              <input type="email" placeholder="Enter your email" />
-              <span>
-                <i class="ri-send-plane-line"></i>
-              </span>
-            </div> */}
+          
           </Col>
         </Row>
 
         <Row className="mt-5">
           <Col lg="6" md="6">
-            {/* <p className="copyright__text">
-              Copyright - 2022, website made by Muhibur Rahman. All Rights
-              Reserved.
-            </p> */}
+           
           </Col>
           <Col lg="6" md="6">
             <div className="social__links d-flex align-items-center gap-4 justify-content-end">
               {/* <p className="m-0">Follow: </p> */}
               <span>
                 {" "}
-                {/* <Link to="https://www.facebook.com/muhib160">
+                {/* <Link to="https://www.facebook.com/">
                   <i class="ri-facebook-line"></i>
                 </Link>{" "} */}
               </span>
 
               <span>
-                {/* <Link to="https://github.com/muhib160">
+                {/* <Link to="https://github.com/">
                   <i class="ri-github-line"></i>
                 </Link> */}
               </span>
 
               <span>
                 {" "}
-                {/* <Link to=" https://www.youtube.com/c/MuhibsTechDiary">
+                {/* <Link to=" https://www.youtube.com/">
                   <i class="ri-youtube-line"></i>
                 </Link>{" "} */}
               </span>
 
               <span>
                 {" "}
-                {/* <Link to=" https://www.linkedin.com/in/muhib160/">
+                {/* <Link to=" https://www.linkedin.com/">
                   <i class="ri-linkedin-line"></i>
                 </Link>{" "} */}
               </span>
